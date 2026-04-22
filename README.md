@@ -2,7 +2,7 @@
 
 Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 
-## Competências
+## O que voçê vai ver nesse Projeto
 
 - **DAO** - Camada de dados separada da interface 
 - **POO** - Criação de estrutura POO em 3 camadas 
@@ -10,9 +10,9 @@ Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 
 ## Execução da aplicação
 
-Para executar a aplicação é necessário rodar Script banco de dados e Recompilar o Projeto
+Para executar a aplicação é necessário rodar Script banco de dados e Compilar o Projeto
 
-## String de conexão do banco
+### String de conexão do banco
 
 Modifique a string de conexão no arquivo **app.config**, no trecho indicado:
 
